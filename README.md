@@ -1,5 +1,5 @@
-Aquarium with python
-----------------------
+#Aquarium with python
+
 A lightweigth, completely open-source and python based aquarium controller
 
 --------------------
